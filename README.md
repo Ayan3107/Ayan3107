@@ -18,8 +18,7 @@ I'm currently learning computer science by building projects, solving problems, 
 
 💻 **GitHub:** [Ayan3107](https://github.com/Ayan3107)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AyanHitkari3107?theme=dark&font=baloo)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/AyanHitkari3107?theme=dark&font=baloo&cache=0)
 ## 🚀 Projects
 
 Here are some of the projects I've built while learning Python:
