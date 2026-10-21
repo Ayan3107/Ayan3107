@@ -1,74 +1,48 @@
-# Hi, I'm Ayan 👋
+## Building in public
 
-### Python Developer | CS Learner | Builder
+<div align="center">
 
-I'm currently learning computer science by building projects, solving problems, and experimenting with software development.
+# Ayan Hitkari
 
-## 🛠️ What I'm Learning
+> Technical founder
 
-- 🐍 Python
-- 💻 Git & GitHub
-- 🧠 Data Structures & Algorithms
-- 🤖 AI / Machine Learning
-- 🌐 Web Development
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ayan3107&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239663001%3Fu%3D85d9e774dadbce68bb8ba54d821434b6c97c5539%26v%3D4" alt="ayan3107 hero visual" />
+</p>
 
-## 🏆 Skills & Badges
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-AyanHitkari3107-orange?style=for-the-badge&logo=leetcode)
+## The point of view
 
-## 📊 Coding Profiles
+> Learning.
 
-🧠 **LeetCode:** [AyanHitkari3107](https://leetcode.com/u/AyanHitkari3107/)
+- 📍 Based in **Aliganj, Lucknow**
+- 🏢 Working at **-**
+- 👥 **0** followers · **0** following
 
-💻 **GitHub:** [Ayan3107](https://github.com/Ayan3107)
+*Small, useful work over vague claims.*
 
-## 📈 GitHub Stats
+## Products and proof
 
-![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayan3107&show_icons=true&theme=dark)
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Ayan3107/Veriflow">Veriflow</a></b></td><td>AI-powered research and evidence intelligence platform<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Ayan3107/reframe">reframe</a></b></td><td>Your visual memory, organized by meaning. Search photos and evidence by what they show.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Ayan3107/leetcode-solutions">leetcode-solutions</a></b></td><td>My LeetCode solutions and DSA practice in Python.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Ayan3107/Ayan3107">Ayan3107</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ayan3107&theme=dark)
+## Momentum
 
-## 🧠 LeetCode Progress
+<table>
+<tr><td align="center"><b>20</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>122</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AyanHitkari3107?theme=dark&font=baloo)
+## Start a conversation
 
-## 🚀 Projects
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ayan3107&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239663001%3Fu%3D85d9e774dadbce68bb8ba54d821434b6c97c5539%26v%3D4" alt="ayan3107 social visual" />
+</p>
 
-Here are some projects I've built while learning Python:
+<a href="https://github.com/ayan3107">GitHub</a>
 
-- 🔢 [Number Analyzer](https://github.com/Ayan3107/number-analyzer)
-- 🧮 [Mini Calculator](https://github.com/Ayan3107/mini-calculator)
-- 🎯 [Number Guessing Game](https://github.com/Ayan3107/number-guessing-game)
-- 🔐 [Password Strength Checker](https://github.com/Ayan3107/password-strength-checker)
-- 📝 [Word Counter](https://github.com/Ayan3107/word-counter)
-- 🎓 [Student Grade Calculator](https://github.com/Ayan3107/student-grade-calculator)
-- 🎲 [Dice Simulator](https://github.com/Ayan3107/dice-simulator)
-- 🧠 [Quiz Game](https://github.com/Ayan3107/quiz-game)
-- 💰 [Expense Tracker](https://github.com/Ayan3107/expense-tracker)
-- 🔒 [DotVault](https://github.com/Ayan3107/DotVault)
-
-## 🧩 LeetCode Solutions
-
-I'm solving LeetCode problems to improve my problem-solving and DSA skills.
-
-➡️ [View my LeetCode Solutions](https://github.com/Ayan3107/leetcode-solutions)
-
-Current focus:
-
-- Hash Maps
-- Arrays
-- Strings
-- Two Pointers
-- Data Structures
-- Algorithms
-
-## 🎯 Current Goal
-
-Build consistently, improve my problem-solving skills, and turn what I learn into real projects.
-
----
-
-⭐ Thanks for visiting my profile!
+<p align="center"><sub>Ayan Hitkari · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
